@@ -30,24 +30,23 @@ The **UniversityExaminationProcessing** is a Java console application designed t
 
 ### 1. Student Details Input
 readScores(input);
--Prompts the user to enter scores for each student across the 5 defined subjects.
+- Prompts the user to enter scores for each student across the 5 defined subjects.
 
 ### 2.Average and Grade Calculation
 calculateAveragesAndGrades();
--Calculates each student’s average score and assigns a grade and recommendation based on a predefined grading scale.
+- Calculates each student’s average score and assigns a grade and recommendation based on a predefined grading scale.
 
 ### 3.Report Card Display
 displayReportCards();
--Prints a detailed report for each student, including the date of the report generation using LocalDate.now()
+- Prints a detailed report for each student, including the date of the report generation using LocalDate.now()
 
 ### 4.Running the Program
-Setup and Running the Program
-Make sure Java is installed on your machine.
-Save the code in a file named UniversityExaminationProcessing.java.
-Open a terminal and navigate to the file directory.
-Compile the program:
+- Make sure Java is installed on your machine.
+- Save the code in a file named UniversityExaminationProcessing.java.
+- Open a terminal and navigate to the file directory.
+- Compile the program:
 javac UniversityExaminationProcessing.java
-Run the program:
+- Run the program:
 java UniversityExaminationProcessing
 
 ### 5.Editors
