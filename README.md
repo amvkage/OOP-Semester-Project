@@ -22,8 +22,13 @@ The **UniversityExaminationProcessing** is a Java console application designed t
   - **C** (50–59): Satisfactory
   - **D** (40–49): Pass 
   - **F** (0–39): Fail
-- Display a report card with scores, average, grade, recommendation, and date.
-
+- Display a report card including:
+  - Student details
+  - Scores per subject
+  - Average score
+  - Assigned grade
+  - Performance recommendation
+  - Date of report generation
 ---
 
 ## How It Works
