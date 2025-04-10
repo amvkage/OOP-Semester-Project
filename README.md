@@ -47,6 +47,9 @@ displayReportCards();
 - Compile the program:
   ```bash
   javac UniversityExaminationProcessing.java
+- Run the program:
+  ```bash
+  java UniversityExaminationProcessor
   
 ### 5.Editors
 - 128220 - Kulundu Bill Enos
