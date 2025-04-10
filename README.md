@@ -45,11 +45,11 @@ displayReportCards();
 - Save the code in a file named UniversityExaminationProcessing.java.
 - Open a terminal and navigate to the file directory.
 - Compile the program:
-javac UniversityExaminationProcessing.java
+-javac UniversityExaminationProcessing.java
 - Run the program:
-java UniversityExaminationProcessing
+-java UniversityExaminationProcessing
 
 ### 5.Editors
--128220 - Kulundu Bill Enos
--161551 - John Gitu
+- 128220 - Kulundu Bill Enos
+- 161551 - John Gitu
 
