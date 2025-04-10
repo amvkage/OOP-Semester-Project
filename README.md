@@ -40,15 +40,14 @@ calculateAveragesAndGrades();
 displayReportCards();
 - Prints a detailed report for each student, including the date of the report generation using LocalDate.now()
 
-### 4.Running the Program
+### 4. Running the Program
 - Make sure Java is installed on your machine.
-- Save the code in a file named UniversityExaminationProcessing.java.
+- Save the code in a file named `UniversityExaminationProcessing.java`.
 - Open a terminal and navigate to the file directory.
 - Compile the program:
--javac UniversityExaminationProcessing.java
-- Run the program:
--java UniversityExaminationProcessing
-
+  ```bash
+  javac UniversityExaminationProcessing.java
+  
 ### 5.Editors
 - 128220 - Kulundu Bill Enos
 - 161551 - John Gitu
